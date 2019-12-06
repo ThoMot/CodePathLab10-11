@@ -132,7 +132,7 @@ plt.ylabel("number", size="15");
 ```
 
 
-![png](output_9_0.png)
+![png](graphs/output_9_0.png)
 
 
 ### Attacks classified by country
@@ -150,7 +150,7 @@ plt.ylabel("number", size="15");
 ```
 
 
-![png](output_11_0.png)
+![png](graphs/output_11_0.png)
 
 
 ### Distribution of attack types: 
