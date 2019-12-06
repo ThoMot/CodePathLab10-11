@@ -172,7 +172,7 @@ plt.ylabel("distribution log10", size="15");
 ```
 
 
-![png](output_13_0.png)
+![png](graphs/output_13_0.png)
 
 
 
