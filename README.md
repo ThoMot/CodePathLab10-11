@@ -52,10 +52,10 @@ The country data seemed to be missing from the data collected about the attacks.
 ### Different protocols used for attack: 
 
 It is interesting to do a count of how many different attacks were used in total in the  data collected. We can tell that a lot of different protocols have been used and some are very much more popular than others. The most popular are: 
-    - mssqld - MicrosoftSQL
-    - pcap   - PortScanner
-    - Blackhole - DDOS
-    - smbd - Relay
+- mssqld - MicrosoftSQL
+- pcap   - PortScanner
+- Blackhole - DDOS
+ - smbd - Relay
 
 ### Data Visualization:
 
@@ -132,7 +132,7 @@ plt.ylabel("number", size="15");
 ```
 
 
-![png](output_9_0.png)
+![png](graphs/output_9_0.png)
 
 
 ### Attacks classified by country
@@ -150,7 +150,7 @@ plt.ylabel("number", size="15");
 ```
 
 
-![png](output_11_0.png)
+![png](graphs/output_11_0.png)
 
 
 ### Distribution of attack types: 
@@ -172,7 +172,7 @@ plt.ylabel("distribution log10", size="15");
 ```
 
 
-![png](output_13_0.png)
+![png](graphs/output_13_0.png)
 
 
 
